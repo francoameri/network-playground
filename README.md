@@ -4,8 +4,9 @@ A small, reproducible Packet Tracer lab showcasing VLANs, basic WLAN (WLC/AP) co
 What this repository demonstrates
 - VLAN design and switch trunking essentials
 - Basic WLC / AP configuration and WLAN verification steps
+- Static and OSPF Routing
+- ACL and NAT
 - Exported device configs (sanitized) and example show outputs
-- A simple automation script to back up configs (example using Netmiko)
 - How to reproduce tests and verify connectivity in the lab
 
 Quickstart (one line)
